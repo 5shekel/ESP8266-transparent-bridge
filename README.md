@@ -1,6 +1,12 @@
 ESP8266-transparent-bridge
 ==========================
 
+forum thread: http://www.esp8266.com/viewtopic.php?f=6&t=864
+firmware AT: to set intial wifi > http://www.electrodragon.com/w/ESP8266_Firmware#Firmware_Log_0.952
+some more help with this transaprnet bridge, half way thru this: http://www.rudiswiki.de/wiki9/WiFi2AT-ESP8266 
+
+
+
 Absolutely transparent bridge for the ESP8266
 
 This is really basic firmware for the ESP that creates a totally transparent TCP socket to ESP UART0 bridge. Characters come in on one interface and go out the other. The totally transparent bridge mode is something that has been missing and is available on higher priced boards.
