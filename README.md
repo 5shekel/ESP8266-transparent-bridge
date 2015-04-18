@@ -1,11 +1,11 @@
 ESP8266-transparent-bridge
 ==========================
 
-forum thread: http://www.esp8266.com/viewtopic.php?f=6&t=864
-firmware AT: to set intial wifi > http://www.electrodragon.com/w/ESP8266_Firmware#Firmware_Log_0.952
-some more help with this transaprnet bridge, half way thru this: http://www.rudiswiki.de/wiki9/WiFi2AT-ESP8266 
-
-
+forum thread: http://www.esp8266.com/viewtopic.php?f=6&t=864  
+firmware AT: to set intial wifi > http://www.electrodragon.com/w/ESP8266_Firmware#Firmware_Log_0.952  
+some more help with this transaprnet bridge, half way thru this: http://www.rudiswiki.de/wiki9/WiFi2AT-ESP8266   
+  
+  
 
 Absolutely transparent bridge for the ESP8266
 
